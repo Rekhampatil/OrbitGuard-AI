@@ -1,0 +1,8 @@
+
+streamlit
+plotly
+numpy
+pandas
+opencv-python
+sgp4
+skyfield
